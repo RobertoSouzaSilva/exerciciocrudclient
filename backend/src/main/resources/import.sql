@@ -1,0 +1,14 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Roberto','111.111.111-11',4321.4,'2020-07-14',5 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Ricardo','111.111.111-11',4321.4,'2020-07-14',4);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Edna','111.111.111-11',4321.4,'2020-07-14',1 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('José','111.111.111-11',4321.4,'2020-07-14',2 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria','111.111.111-11',4321.4,'2020-07-14',3 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Júlia','111.111.111-11',4321.4,'2020-07-14',3 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Priscila','111.111.111-11',4321.4,'2020-07-14',2 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Cristal','111.111.111-11',4321.4,'2020-07-14', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('João','111.111.111-11',4321.4,'2020-07-14',3 );
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Helena','111.111.111-11',4321.4,'2020-07-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Pedro','111.111.111-11',4321.4,'2020-07-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Luiz','111.111.111-11',4321.4,'2020-07-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Andreia','111.111.111-11',4321.4,'2020-07-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Vanessa','111.111.111-11',4321.4,'2020-07-14', 2);
